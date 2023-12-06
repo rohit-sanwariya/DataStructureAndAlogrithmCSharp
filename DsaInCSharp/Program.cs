@@ -6,7 +6,8 @@ namespace DsaInCSharp
     {
         static void Main(string[] args)
         {
-           SumTotal sumTotal = new SumTotal();
+            //SumTotal sumTotal = new SumTotal();
+            MergeAlternatelySolution sumTotal = new MergeAlternatelySolution();
         }
     }
 }
